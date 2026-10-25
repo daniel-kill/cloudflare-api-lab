@@ -1,0 +1,6 @@
+# Cloudflare API Lab — Requirements
+# LLMForge & CFLab adhere to ZERO mandatory external dependencies.
+# The core tool runs immediately with Python 3.8+ standard library.
+#
+# Optional enhanced image preview:
+# pillow>=10.0.0
